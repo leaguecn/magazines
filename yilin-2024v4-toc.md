@@ -1,4 +1,4 @@
-![](https://github.com/leaguecn/magazines/blob/master/img/yili202404-l.jpg?raw=true)
+![](https://raw.githubusercontent.com/leaguecn/magazines/main/img/yili202404-l.jpg)
 
 |序号|文章名|链接|
 |:---------:|:----------|:---------|
