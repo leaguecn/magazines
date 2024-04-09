@@ -1,4 +1,4 @@
-![](https://github.com/leaguecn/magazines/raw/master/img/yili202404-l.jpg)
+![](https://github.com/leaguecn/magazines/blob/master/img/yili202404-l.jpg)
 
 |序号|文章名|链接|
 |:---------:|:----------|:---------|
@@ -31,7 +31,7 @@
 |27|[姥爷的秘密](https://github.com/leaguecn/magazines/blob/master/md/姥爷的秘密.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240427)|
 |28|[父亲在秋天枯萎](https://github.com/leaguecn/magazines/blob/master/md/父亲在秋天枯萎.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240428)|
 |29|[带外婆出去玩](https://github.com/leaguecn/magazines/blob/master/md/带外婆出去玩.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240429)|
-|30|[神回复](https://github.com/leaguecn/magazines/blob/master/md/神回复.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240430)|
+|30|[神回复-1](https://github.com/leaguecn/magazines/blob/master/md/神回复-1.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240430)|
 |31|[年猪](https://github.com/leaguecn/magazines/blob/master/md/年猪.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240431)|
 |32|[鱼汤面](https://github.com/leaguecn/magazines/blob/master/md/鱼汤面.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240432)|
 |33|[密码门](https://github.com/leaguecn/magazines/blob/master/md/密码门.md)|[](http://fslib.vip.qikan.cn/Text/Article.aspx?titleid=yili20240433)|
