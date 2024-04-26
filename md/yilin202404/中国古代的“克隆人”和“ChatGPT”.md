@@ -1,6 +1,6 @@
 # <center>中国古代的“克隆人”和“ChatGPT”</center> 
 
-<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%d7%f7%d5%df%a3%ba%d5%d4%d4%cb%cc%ce.jpg"></div> 
+<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%25d7%25f7%25d5%25df%25a3%25ba%25d5%25d4%25d4%25cb%25cc%25ce.jpg"></div> 
 
 <center>来源：意林   ISSN号：1007-3841   2024年4期</center> 
 

@@ -1,6 +1,6 @@
 # <center>“社恐Tony”转行洗猫，在另一个领域闪闪发光</center>
 
-<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%d7%f7%d5%df%a3%ba%c8%cb%bc%e4%d2%bb%b4%f3%c3%ce.jpg"></div>
+<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%25d7%25f7%25d5%25df%25a3%25ba%25c8%25cb%25bc%25e4%25d2%25bb%25b4%25f3%25c3%25ce.jpg"></div>
 
 <center>来源：意林   ISSN号：1007-3841   2024年3期</center>
 

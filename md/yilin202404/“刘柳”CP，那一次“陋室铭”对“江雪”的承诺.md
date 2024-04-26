@@ -1,6 +1,6 @@
 # <center>“刘柳”CP，那一次“陋室铭”对“江雪”的承诺</center> 
 
-<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%d7%f7%d5%df%a3%ba%c1%f9%c9%f1%c0%da%c0%da.jpg"></div> 
+<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%25d7%25f7%25d5%25df%25a3%25ba%25c1%25f9%25c9%25f1%25c0%25da%25c0%25da.jpg"></div> 
 
 <center>来源：意林   ISSN号：1007-3841   2024年4期</center> 
 
