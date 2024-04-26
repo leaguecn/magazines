@@ -1,6 +1,6 @@
 # <center>中国古代的“克隆人”和“ChatGPT”</center> 
 
-<div align=center><img src="http://fslib.vip.qikan.cn/img.ashx?key=%d7%f7%d5%df%a3%ba%d5%d4%d4%cb%cc%ce"></div> 
+<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%d7%f7%d5%df%a3%ba%d5%d4%d4%cb%cc%ce.jpg"></div> 
 
 <center>来源：意林   ISSN号：1007-3841   2024年4期</center> 
 
@@ -17,7 +17,7 @@
 　　除了偃师造的“机器人”，东周《拾遗记》里还记载了周灵王时期一个叫“机妍”的玉人，能够自己转动。  
 　　再来看看秦朝的“机器人”。汉晋时期的《西京杂记》记载，刘邦进入咸阳宫，在秦朝府库中发现了十二铜人，三尺高（按秦尺，70厘米左右），在同一张席子上。每人持一种乐器，衣服华丽，如真人一样。席子下有两根铜管，上边的管口离地数尺，从席后伸出。其中一根管是空的，另一根管里装有手指粗的绳子。一个人吹空管，一个人扭动绳子，各种乐器就会一起鸣奏，和真人演奏没什么两样。
 
-![](http://img.resource.qikan.cn/markvip/qkimages/yili/yili202404/yili20240443-1-l.jpg)
+![](https://raw.githubusercontent.com/leaguecn/magazines/main/img/yili20240443-1-l.jpg)
 
   
 　　唐段安节《乐府杂录》记载，汉高祖刘邦征讨匈奴，在平城被围。谋士陈平想了一个计策，他知道匈奴首领的妻子爱吃醋，于是制造了一个美女“机器人”在城头跳舞。果然匈奴首领妻子看到后，以为是真人。她担心攻下城池，单于会纳此女为妾，影响自己的地位，于是劝单于退兵。就这样，陈平靠着这个跳舞的“机器人”，解了刘邦的平城之围。  

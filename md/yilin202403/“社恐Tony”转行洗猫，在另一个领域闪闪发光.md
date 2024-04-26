@@ -1,6 +1,6 @@
 # <center>“社恐Tony”转行洗猫，在另一个领域闪闪发光</center>
 
-<div align=center><img src="http://fslib.vip.qikan.cn/img.ashx?key=%d7%f7%d5%df%a3%ba%c8%cb%bc%e4%d2%bb%b4%f3%c3%ce"></div>
+<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%d7%f7%d5%df%a3%ba%c8%cb%bc%e4%d2%bb%b4%f3%c3%ce.jpg"></div>
 
 <center>来源：意林   ISSN号：1007-3841   2024年3期</center>
 
@@ -17,7 +17,7 @@
   
 <br>　　干了这行后，小汤最高兴的事就是以工作为名，把喂了很久的流浪小猫绑架回家，并对家人的抱怨振振有词：“这是工作需要，不是浪费钱。”
 
-![](http://img.resource.qikan.cn/markvip/qkimages/yili/yili202403/yili20240325-1-l.jpg)
+![](https://raw.githubusercontent.com/leaguecn/magazines/main/img/yili20240325-1-l.jpg)
 
   
 　　面试时，老板问他有没有养过宠物。小汤回想了一下，小时候家里养过看家护院的狗，养过抓老鼠的猫，但都是散养，有剩菜剩饭就给一口，想起来就招呼一声，跑丢了也不心疼，实在算不上宠物。  

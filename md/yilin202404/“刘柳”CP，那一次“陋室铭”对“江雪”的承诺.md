@@ -1,6 +1,6 @@
 # <center>“刘柳”CP，那一次“陋室铭”对“江雪”的承诺</center> 
 
-<div align=center><img src="http://fslib.vip.qikan.cn/img.ashx?key=%d7%f7%d5%df%a3%ba%c1%f9%c9%f1%c0%da%c0%da"></div> 
+<div align=center><img src="https://raw.githubusercontent.com/leaguecn/magazines/main/img_authors/%d7%f7%d5%df%a3%ba%c1%f9%c9%f1%c0%da%c0%da.jpg"></div> 
 
 <center>来源：意林   ISSN号：1007-3841   2024年4期</center> 
 
@@ -22,7 +22,7 @@
 　　患难的时候，他俩互相写信，互相鼓励。哪怕遇到了事情，他们也一起怼人。  
 　　柳宗元和韩愈因为哲学问题掐起来了，写了一篇《天说》怼老韩。刘禹锡立刻加入，连写三篇《天论》，劈头盖脸帮忙怼韩愈。
 
-![](http://img.resource.qikan.cn/markvip/qkimages/yili/yili202404/yili20240461-1-l.jpg)
+![](https://raw.githubusercontent.com/leaguecn/magazines/main/img/yili20240461-1-l.jpg)
 
   
 <br>　　光阴流逝，不觉十年过去，他俩得到了回长安的机会，可惜好日子没几天，刘禹锡就闯祸了。这家伙回到长安就写诗说：“前度刘郎今又来！”有人立刻就打了小报告：领导您看！刘禹锡多么张狂啊！把刘禹锡贬到播州去！还有那个柳宗元，他们一伙的，也一起贬，到柳州去！  
